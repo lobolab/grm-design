@@ -1,0 +1,16 @@
+Builds
+GeneratedFiles
+Doc
+CodeAnalyst
+ipch
+MacBuild
+Temp
+x64
+*.exe
+*.zip
+*.sdf
+*.suo
+*.sln.docstates
+memory_leaks.txt
+*.opendb
+*.db
